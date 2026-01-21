@@ -1,0 +1,11 @@
+Metric,Value
+classification_accuracy,0.0
+weighted_accuracy,0
+organization_success_rate,0.0
+error_rate,0.0
+processing_time,32.425270080566406
+extraction_success_rate,50.0
+average_processing_time_per_file,0
+average_confidence_score,0
+category_distribution,{}
+error_types,"{""Classification error: Classification timed out after 30 seconds"": 1}"

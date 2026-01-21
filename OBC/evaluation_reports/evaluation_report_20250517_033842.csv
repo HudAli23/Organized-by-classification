@@ -1,0 +1,11 @@
+Metric,Value
+classification_accuracy,0.0
+weighted_accuracy,0.0
+organization_success_rate,100.0
+error_rate,50.0
+processing_time,9.738297700881958
+extraction_success_rate,100.0
+average_processing_time_per_file,9.70256233215332
+average_confidence_score,0.4
+category_distribution,"{""Code"": 1}"
+error_types,{}

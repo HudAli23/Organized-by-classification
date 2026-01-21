@@ -1,0 +1,9 @@
+Metric,Value
+classification_accuracy,0.0
+organization_success_rate,100.0
+error_rate,50.0
+processing_time,19.348225355148315
+extraction_success_rate,100.0
+average_processing_time_per_file,19.329143285751343
+category_distribution,"{""Documentation"": 1}"
+error_types,{}

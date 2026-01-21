@@ -1,0 +1,1049 @@
+2025-05-19 11:31:49,127 - INFO - Starting Smart File Organizer
+2025-05-19 11:31:49,143 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 11:31:49,183 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 11:32:28,562 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,563 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,563 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,564 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,565 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,566 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,566 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,568 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,570 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,574 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,582 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,583 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,584 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,585 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,586 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,587 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,587 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,589 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,592 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,593 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,595 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,597 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,598 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,604 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,605 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,606 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,607 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,608 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:28,611 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:32:30,097 - ERROR - Error during smart organization: name 'clean_empty_folders' is not defined
+2025-05-19 11:36:10,347 - INFO - Starting Smart File Organizer
+2025-05-19 11:36:10,362 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 11:36:10,399 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 11:36:15,298 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,300 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,316 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,317 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,318 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,324 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,326 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,327 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,328 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,329 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,330 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,331 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,332 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,333 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,334 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,335 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,342 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,351 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,354 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,355 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,355 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,356 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,357 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,358 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,359 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,360 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,360 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,361 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:15,361 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,839 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,856 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,872 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,872 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,872 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,872 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,872 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:42,872 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 11:36:44,425 - ERROR - Error during smart organization: name 'clean_empty_folders' is not defined
+2025-05-19 11:41:30,036 - INFO - Starting Smart File Organizer
+2025-05-19 11:41:30,052 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 11:41:30,085 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 11:41:52,302 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,302 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,302 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,302 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,302 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,318 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,319 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,334 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,335 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,335 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,338 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,340 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:52,351 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:41:53,856 - ERROR - Error during smart organization: name 'clean_empty_folders' is not defined
+2025-05-19 11:45:37,260 - INFO - Starting Smart File Organizer
+2025-05-19 11:45:37,275 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 11:45:37,309 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,166 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,177 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,183 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,184 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,185 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,186 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,187 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,188 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,188 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,189 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,189 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,192 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,192 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,192 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,192 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,201 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,202 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,203 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,204 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,205 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:52,206 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (4) - Copy: name 'log_callback' is not defined
+2025-05-19 11:45:53,683 - ERROR - Error during smart organization: name 'clean_empty_folders' is not defined
+2025-05-19 12:06:41,142 - INFO - Starting Smart File Organizer
+2025-05-19 12:06:41,158 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 12:06:41,192 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,285 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,295 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,300 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,307 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,315 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,315 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,316 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,320 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,320 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,320 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,325 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,327 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:06:56,329 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,534 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,534 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,548 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,548 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,550 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,550 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,551 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,551 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,551 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,555 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,555 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,555 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,555 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,567 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,567 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,569 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,569 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,569 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,569 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,574 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,574 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,574 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,574 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,581 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,581 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,584 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,585 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,585 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:07:26,585 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:44,461 - INFO - Starting Smart File Organizer
+2025-05-19 12:09:44,476 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 12:09:44,508 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,699 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,718 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,720 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,733 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,733 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,733 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,733 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,733 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:09:50,733 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:11:55,248 - INFO - Starting Smart File Organizer
+2025-05-19 12:11:55,261 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 12:11:55,300 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,848 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,863 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,864 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,880 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,881 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,881 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,881 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,881 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,889 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,889 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,889 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,889 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:12:21,889 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:15:36,190 - INFO - Starting Smart File Organizer
+2025-05-19 12:15:36,204 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 12:15:36,237 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 12:16:01,295 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,295 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,295 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,311 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,312 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,312 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,312 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,312 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,312 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,317 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,317 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,317 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,317 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,317 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,328 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,329 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,344 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,345 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:16:01,345 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:31:53,129 - INFO - Starting Smart File Organizer
+2025-05-19 12:31:53,143 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-05-19 12:31:53,185 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2025-05-19 12:32:16,312 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,312 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,313 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,313 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,314 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,314 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,316 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,317 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,317 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,321 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,328 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,329 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,330 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,330 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,331 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,332 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,332 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,333 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,336 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,337 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,337 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,338 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,339 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,346 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,346 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,347 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,347 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,348 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:32:16,351 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (5) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,751 - ERROR - Error accessing file 1st.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,752 - ERROR - Error accessing file 24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,754 - ERROR - Error accessing file 2nd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,754 - ERROR - Error accessing file 3rd.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,755 - ERROR - Error accessing file 4th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,755 - ERROR - Error accessing file 5th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,756 - ERROR - Error accessing file 6th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,756 - ERROR - Error accessing file 7th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,757 - ERROR - Error accessing file 8th.mp3 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,760 - ERROR - Error accessing file AKS.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,766 - ERROR - Error accessing file image 1.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,766 - ERROR - Error accessing file image 2.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,768 - ERROR - Error accessing file image 3.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,769 - ERROR - Error accessing file image 4.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,769 - ERROR - Error accessing file image 5.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,770 - ERROR - Error accessing file image 6.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,771 - ERROR - Error accessing file image 7.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,771 - ERROR - Error accessing file image 8.png in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,773 - ERROR - Error accessing file MAN.jpg in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,774 - ERROR - Error accessing file med.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,774 - ERROR - Error accessing file new version.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,775 - ERROR - Error accessing file old.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,777 - ERROR - Error accessing file perfect.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,782 - ERROR - Error accessing file slide 3.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,783 - ERROR - Error accessing file slide 3.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,783 - ERROR - Error accessing file slide 4.1.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,784 - ERROR - Error accessing file slide 4.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,785 - ERROR - Error accessing file Thumbs.db in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-05-19 12:34:23,787 - ERROR - Error accessing file video.mp4 in C:/Users/hudzg/Desktop/r2 - Copy (3) - Copy: name 'log_callback' is not defined
+2025-12-29 23:26:10,439 - INFO - Starting Smart File Organizer
+2025-12-29 23:26:10,472 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-12-29 23:26:10,524 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2026-01-04 01:16:20,051 - INFO - Starting Smart File Organizer
+2026-01-04 01:16:20,071 - INFO - Tesseract found at: C:\Program Files\Tesseract-OCR\tesseract.exe
+2026-01-04 01:16:21,354 - INFO - Tesseract OCR version 5.5.0.20241111 is properly configured.
+2026-01-13 23:59:06,631 - INFO - Starting Smart File Organizer
+2026-01-13 23:59:06,631 - INFO - Checking NLTK resources
+2026-01-13 23:59:06,637 - INFO - NLTK resource available: punkt
+2026-01-13 23:59:06,642 - INFO - NLTK resource available: stopwords
+2026-01-13 23:59:06,646 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-13 23:59:06,648 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-14 00:01:13,296 - ERROR - Error during organization: name 'smart_organize_files' is not defined
+2026-01-14 00:02:48,589 - INFO - Starting Smart File Organizer
+2026-01-14 00:02:48,590 - INFO - Checking NLTK resources
+2026-01-14 00:02:48,593 - INFO - NLTK resource available: punkt
+2026-01-14 00:02:48,598 - INFO - NLTK resource available: stopwords
+2026-01-14 00:02:48,602 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-14 00:02:48,602 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-14 00:03:31,357 - INFO - Found 18 files to process
+2026-01-14 00:03:31,357 - INFO - Initializing zero-shot classifier (device=-1)
+2026-01-14 00:04:09,778 - INFO - File: cv.zip -> Label: Others (confidence: 0.30)
+2026-01-14 00:04:12,264 - INFO - File: Backdrop include image related to me.docx -> Label: Images (confidence: 0.51)
+2026-01-14 00:04:27,259 - INFO - File: HUDDAIFAH ALI cover letter.docx -> Label: Code (confidence: 0.30)
+2026-01-14 00:04:51,134 - INFO - File: HUDDAIFAH Ali CV - Copy.docx -> Label: Code (confidence: 0.95)
+2026-01-14 00:05:26,701 - INFO - File: Huddaifah CV.docx -> Label: Code (confidence: 0.95)
+2026-01-14 00:05:28,354 - INFO - File: job titles.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:05:44,661 - INFO - File: jobs list.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:05:44,683 - INFO - File: MODULES.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:05:47,717 - INFO - File: p.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:05:47,763 - INFO - File: p.pdf -> Label: Others (confidence: 0.30)
+2026-01-14 00:06:04,518 - INFO - File: plan.docx -> Label: Documentation (confidence: 0.60)
+2026-01-14 00:06:39,566 - INFO - File: Ranking system.docx -> Label: Code (confidence: 0.95)
+2026-01-14 00:06:39,581 - ERROR - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy\cv\Documentation\Docs\~$DDAIFAH ALI cover letter.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy\cv\Documentation\Docs\~$DDAIFAH ALI cover letter.docx'
+2026-01-14 00:06:39,583 - INFO - File: ~$DDAIFAH ALI cover letter.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:06:39,595 - ERROR - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy\cv\Documentation\Docs\~$DDAIFAH Ali CV.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy\cv\Documentation\Docs\~$DDAIFAH Ali CV.docx'
+2026-01-14 00:06:39,595 - INFO - File: ~$DDAIFAH Ali CV.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:06:52,671 - INFO - File: cover letter.docx -> Label: Spreadsheet (confidence: 0.30)
+2026-01-14 00:07:27,742 - INFO - File: HUDDAIFAH Ali CV.docx -> Label: Code (confidence: 0.95)
+2026-01-14 00:07:59,632 - INFO - File: ~WRL0005.tmp -> Label: Others (confidence: 0.30)
+2026-01-14 00:08:34,528 - INFO - File: ~WRL0006.tmp -> Label: Others (confidence: 0.30)
+2026-01-14 00:20:47,634 - INFO - Starting Smart File Organizer
+2026-01-14 00:20:47,634 - INFO - Checking NLTK resources
+2026-01-14 00:20:47,636 - INFO - NLTK resource available: punkt
+2026-01-14 00:20:47,644 - INFO - NLTK resource available: stopwords
+2026-01-14 00:20:47,648 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-14 00:20:47,650 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-14 00:21:36,553 - WARNING - Destination is inside source directory
+2026-01-14 00:21:36,562 - INFO - Found 18 files to process
+2026-01-14 00:21:36,579 - INFO - Initializing zero-shot classifier (device=-1)
+2026-01-14 00:21:53,090 - INFO - File: HUDDAIFAH ALI cover letter.docx -> Label: Code (confidence: 0.65)
+2026-01-14 00:21:53,094 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Code\HUDDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Code\HUDDAIFAH ALI cover letter.docx
+2026-01-14 00:22:14,341 - INFO - File: HUDDAIFAH Ali CV - Copy.docx -> Label: Data (confidence: 0.90)
+2026-01-14 00:22:14,344 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Code\HUDDAIFAH Ali CV - Copy.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Data\HUDDAIFAH Ali CV - Copy.docx
+2026-01-14 00:22:49,791 - INFO - File: HUDDAIFAH Ali CV.docx -> Label: Data (confidence: 0.90)
+2026-01-14 00:22:49,795 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Code\HUDDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Data\HUDDAIFAH Ali CV.docx
+2026-01-14 00:23:35,863 - INFO - File: Huddaifah CV.docx -> Label: Data (confidence: 0.90)
+2026-01-14 00:23:35,867 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Code\Huddaifah CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Data\Huddaifah CV.docx
+2026-01-14 00:24:22,869 - INFO - File: Ranking system.docx -> Label: Code (confidence: 0.90)
+2026-01-14 00:24:22,873 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Code\Ranking system.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Code\Ranking system.docx
+2026-01-14 00:24:45,305 - INFO - File: plan.docx -> Label: Code (confidence: 0.65)
+2026-01-14 00:24:45,309 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Documentation\plan.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Code\plan.docx
+2026-01-14 00:24:47,851 - INFO - File: Backdrop include image related to me.docx -> Label: Images (confidence: 0.51)
+2026-01-14 00:24:47,855 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Images\Backdrop include image related to me.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Images\Backdrop include image related to me.docx
+2026-01-14 00:25:33,422 - INFO - File: cv.zip -> Label: Documentation (confidence: 0.70)
+2026-01-14 00:25:33,426 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\cv.zip -> C:/Users/hudzg/Desktop/cv - Copy/cv\Documentation\cv.zip
+2026-01-14 00:25:35,818 - INFO - File: job titles.docx -> Label: Others (confidence: 0.30)
+2026-01-14 00:25:35,822 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\job titles.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Others\job titles.docx
+2026-01-14 00:25:55,368 - INFO - File: jobs list.docx -> Label: Code (confidence: 0.90)
+2026-01-14 00:25:55,371 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\jobs list.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Code\jobs list.docx
+2026-01-14 00:25:55,382 - INFO - File: MODULES.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:25:55,386 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\MODULES.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\MODULES.docx
+2026-01-14 00:25:59,078 - INFO - File: p.docx -> Label: Code (confidence: 0.40)
+2026-01-14 00:25:59,081 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\p.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Code\p.docx
+2026-01-14 00:25:59,089 - INFO - File: p.pdf -> Label: Documents (confidence: 0.95)
+2026-01-14 00:25:59,095 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\p.pdf -> C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\p.pdf
+2026-01-14 00:25:59,098 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~$DDAIFAH ALI cover letter.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~$DDAIFAH ALI cover letter.docx'
+2026-01-14 00:25:59,099 - INFO - File: ~$DDAIFAH ALI cover letter.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:25:59,103 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~$DDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH ALI cover letter.docx
+2026-01-14 00:25:59,106 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~$DDAIFAH Ali CV.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~$DDAIFAH Ali CV.docx'
+2026-01-14 00:25:59,107 - INFO - File: ~$DDAIFAH Ali CV.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:25:59,113 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~$DDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH Ali CV.docx
+2026-01-14 00:26:37,520 - INFO - File: ~WRL0005.tmp -> Label: Data (confidence: 0.90)
+2026-01-14 00:26:37,524 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~WRL0005.tmp -> C:/Users/hudzg/Desktop/cv - Copy/cv\Data\~WRL0005.tmp
+2026-01-14 00:27:13,561 - INFO - File: ~WRL0006.tmp -> Label: Data (confidence: 0.90)
+2026-01-14 00:27:13,564 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others\~WRL0006.tmp -> C:/Users/hudzg/Desktop/cv - Copy/cv\Data\~WRL0006.tmp
+2026-01-14 00:27:26,636 - INFO - File: cover letter.docx -> Label: Data (confidence: 0.65)
+2026-01-14 00:27:26,640 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy\New folder\Spreadsheet\cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/cv\Data\cover letter.docx
+2026-01-14 00:27:26,645 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy\New folder\Code
+2026-01-14 00:27:26,647 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy\New folder\Documentation
+2026-01-14 00:27:26,649 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy\New folder\Images
+2026-01-14 00:27:26,652 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy\New folder\Others
+2026-01-14 00:27:26,655 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy\New folder\Spreadsheet
+2026-01-14 00:27:26,660 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy\New folder
+2026-01-14 00:27:26,661 - INFO - Pipeline complete: 18 processed, 18 moved, 0 failed
+2026-01-14 00:32:54,812 - INFO - Starting Smart File Organizer
+2026-01-14 00:32:54,812 - INFO - Checking NLTK resources
+2026-01-14 00:32:54,812 - INFO - NLTK resource available: punkt
+2026-01-14 00:32:54,830 - INFO - NLTK resource available: stopwords
+2026-01-14 00:32:54,834 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-14 00:32:54,834 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-14 00:33:06,669 - INFO - Found 18 files to process
+2026-01-14 00:33:06,686 - INFO - File: HUDDAIFAH ALI cover letter.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,690 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Code\HUDDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\HUDDAIFAH ALI cover letter.docx
+2026-01-14 00:33:06,709 - INFO - File: jobs list.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,713 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Code\jobs list.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\jobs list.docx
+2026-01-14 00:33:06,723 - INFO - File: p.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,727 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Code\p.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.docx
+2026-01-14 00:33:06,740 - INFO - File: plan.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,754 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Code\plan.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\plan.docx
+2026-01-14 00:33:06,779 - INFO - File: Ranking system.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,785 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Code\Ranking system.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Ranking system.docx
+2026-01-14 00:33:06,789 - INFO - File: cover letter.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,796 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Data\cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\cover letter.docx
+2026-01-14 00:33:06,813 - INFO - File: HUDDAIFAH Ali CV - Copy.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,813 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Data\HUDDAIFAH Ali CV - Copy.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\HUDDAIFAH Ali CV - Copy.docx
+2026-01-14 00:33:06,849 - INFO - File: HUDDAIFAH Ali CV.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,856 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Data\HUDDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\HUDDAIFAH Ali CV.docx
+2026-01-14 00:33:06,889 - INFO - File: Huddaifah CV.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:06,893 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Data\Huddaifah CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Huddaifah CV.docx
+2026-01-14 00:33:06,915 - INFO - File: ~WRL0005.tmp -> Label: Images (confidence: 0.64)
+2026-01-14 00:33:06,919 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Data\~WRL0005.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\~WRL0005.tmp
+2026-01-14 00:33:06,930 - INFO - Initializing zero-shot classifier (device=-1)
+2026-01-14 00:33:43,654 - INFO - File: ~WRL0006.tmp -> Label: Data (confidence: 0.90)
+2026-01-14 00:33:43,660 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Data\~WRL0006.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\~WRL0006.tmp
+2026-01-14 00:33:43,664 - INFO - File: cv.zip -> Label: Archives (confidence: 0.95)
+2026-01-14 00:33:43,667 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Documentation\cv.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Archives\cv.zip
+2026-01-14 00:33:43,678 - INFO - File: MODULES.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:43,681 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\MODULES.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\MODULES.docx
+2026-01-14 00:33:43,693 - INFO - File: p.pdf -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:43,696 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\p.pdf -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.pdf
+2026-01-14 00:33:43,698 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH ALI cover letter.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH ALI cover letter.docx'
+2026-01-14 00:33:43,699 - INFO - File: ~$DDAIFAH ALI cover letter.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:43,702 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH ALI cover letter.docx
+2026-01-14 00:33:43,706 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH Ali CV.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH Ali CV.docx'
+2026-01-14 00:33:43,708 - INFO - File: ~$DDAIFAH Ali CV.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:43,711 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Documents\~$DDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH Ali CV.docx
+2026-01-14 00:33:43,722 - INFO - File: Backdrop include image related to me.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:43,725 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Images\Backdrop include image related to me.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Backdrop include image related to me.docx
+2026-01-14 00:33:43,734 - INFO - File: job titles.docx -> Label: Documents (confidence: 0.95)
+2026-01-14 00:33:43,737 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/cv\Others\job titles.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\job titles.docx
+2026-01-14 00:33:43,739 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/cv\Code
+2026-01-14 00:33:43,741 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/cv\Data
+2026-01-14 00:33:43,743 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/cv\Documentation
+2026-01-14 00:33:43,744 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/cv\Documents
+2026-01-14 00:33:43,746 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/cv\Images
+2026-01-14 00:33:43,747 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/cv\Others
+2026-01-14 00:33:43,748 - INFO - Pipeline complete: 18 processed, 18 moved, 0 failed
+2026-01-14 00:38:28,451 - INFO - Starting Smart File Organizer
+2026-01-14 00:38:28,451 - INFO - Checking NLTK resources
+2026-01-14 00:38:28,455 - INFO - NLTK resource available: punkt
+2026-01-14 00:38:28,461 - INFO - NLTK resource available: stopwords
+2026-01-14 00:38:28,465 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-14 00:38:28,466 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-14 00:38:44,438 - WARNING - Destination is inside source directory
+2026-01-14 00:38:44,455 - INFO - Found 18 files to process
+2026-01-14 00:38:44,694 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH ALI cover letter.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH ALI cover letter.docx'
+2026-01-14 00:38:44,694 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH Ali CV.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH Ali CV.docx'
+2026-01-14 00:38:44,705 - INFO - Initializing zero-shot classifier (device=-1)
+2026-01-14 00:39:24,936 - INFO - Generating dynamic folder structure based on relationships...
+2026-01-14 00:39:24,978 - WARNING - Clustering failed: Negative values in data passed to X., using themes instead
+2026-01-14 00:39:24,982 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Archives\cv.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Archives\cv.zip
+2026-01-14 00:39:24,984 - INFO - Moved: cv.zip -> Archives
+2026-01-14 00:39:24,987 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\~WRL0006.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Images\~WRL0006.tmp
+2026-01-14 00:39:24,988 - INFO - Moved: ~WRL0006.tmp -> Images
+2026-01-14 00:39:24,991 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Backdrop include image related to me.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\Backdrop include image related to me.docx
+2026-01-14 00:39:24,991 - INFO - Moved: Backdrop include image related to me.docx -> Documents_15files
+2026-01-14 00:39:24,996 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\cover letter.docx
+2026-01-14 00:39:24,997 - INFO - Moved: cover letter.docx -> Documents_15files
+2026-01-14 00:39:25,000 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\HUDDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\HUDDAIFAH ALI cover letter.docx
+2026-01-14 00:39:25,001 - INFO - Moved: HUDDAIFAH ALI cover letter.docx -> Documents_15files
+2026-01-14 00:39:25,004 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\HUDDAIFAH Ali CV - Copy.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\HUDDAIFAH Ali CV - Copy.docx
+2026-01-14 00:39:25,005 - INFO - Moved: HUDDAIFAH Ali CV - Copy.docx -> Documents_15files
+2026-01-14 00:39:25,009 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\HUDDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\HUDDAIFAH Ali CV.docx
+2026-01-14 00:39:25,010 - INFO - Moved: HUDDAIFAH Ali CV.docx -> Documents_15files
+2026-01-14 00:39:25,014 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Huddaifah CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\Huddaifah CV.docx
+2026-01-14 00:39:25,015 - INFO - Moved: Huddaifah CV.docx -> Documents_15files
+2026-01-14 00:39:25,018 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\job titles.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\job titles.docx
+2026-01-14 00:39:25,019 - INFO - Moved: job titles.docx -> Documents_15files
+2026-01-14 00:39:25,023 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\jobs list.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\jobs list.docx
+2026-01-14 00:39:25,023 - INFO - Moved: jobs list.docx -> Documents_15files
+2026-01-14 00:39:25,027 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\MODULES.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\MODULES.docx
+2026-01-14 00:39:25,029 - INFO - Moved: MODULES.docx -> Documents_15files
+2026-01-14 00:39:25,032 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\p.docx
+2026-01-14 00:39:25,033 - INFO - Moved: p.docx -> Documents_15files
+2026-01-14 00:39:25,036 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.pdf -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\p.pdf
+2026-01-14 00:39:25,037 - INFO - Moved: p.pdf -> Documents_15files
+2026-01-14 00:39:25,040 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\plan.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\plan.docx
+2026-01-14 00:39:25,040 - INFO - Moved: plan.docx -> Documents_15files
+2026-01-14 00:39:25,045 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Ranking system.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\Ranking system.docx
+2026-01-14 00:39:25,045 - INFO - Moved: Ranking system.docx -> Documents_15files
+2026-01-14 00:39:25,049 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH ALI cover letter.docx
+2026-01-14 00:39:25,049 - INFO - Moved: ~$DDAIFAH ALI cover letter.docx -> Documents_15files
+2026-01-14 00:39:25,054 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\~$DDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH Ali CV.docx
+2026-01-14 00:39:25,054 - INFO - Moved: ~$DDAIFAH Ali CV.docx -> Documents_15files
+2026-01-14 00:39:25,058 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\~WRL0005.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Data\~WRL0005.tmp
+2026-01-14 00:39:25,059 - INFO - Moved: ~WRL0005.tmp -> Data
+2026-01-14 00:39:25,061 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Archives
+2026-01-14 00:39:25,063 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Data
+2026-01-14 00:39:25,065 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents
+2026-01-14 00:39:25,066 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Images
+2026-01-14 00:39:25,067 - INFO - Pipeline complete: 18 processed, 18 moved, 0 failed
+2026-01-14 00:39:25,068 - INFO - Folder structure created:
+2026-01-14 00:39:25,068 - INFO -   Archives/ (1 files)
+2026-01-14 00:39:25,069 - INFO -   Images/ (1 files)
+2026-01-14 00:39:25,069 - INFO -   Documents_15files/ (15 files)
+2026-01-14 00:39:25,070 - INFO -   Data/ (1 files)
+2026-01-14 00:46:36,594 - INFO - Starting Smart File Organizer
+2026-01-14 00:46:36,595 - INFO - Checking NLTK resources
+2026-01-14 00:46:36,599 - INFO - NLTK resource available: punkt
+2026-01-14 00:46:36,603 - INFO - NLTK resource available: stopwords
+2026-01-14 00:46:36,606 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-14 00:46:36,607 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-14 00:48:11,875 - INFO - Found 18 files to process
+2026-01-14 00:48:12,106 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH ALI cover letter.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH ALI cover letter.docx'
+2026-01-14 00:48:12,106 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH Ali CV.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH Ali CV.docx'
+2026-01-14 00:48:12,124 - INFO - Initializing zero-shot classifier (device=-1)
+2026-01-14 00:48:45,475 - INFO - Generating dynamic folder structure based on relationships...
+2026-01-14 00:48:45,483 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Archives\cv.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\cv.zip
+2026-01-14 00:48:45,485 - INFO - Moved: cv.zip -> Job_Search
+2026-01-14 00:48:45,489 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\cover letter.docx
+2026-01-14 00:48:45,491 - INFO - Moved: cover letter.docx -> Job_Search
+2026-01-14 00:48:45,496 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\HUDDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HUDDAIFAH ALI cover letter.docx
+2026-01-14 00:48:45,496 - INFO - Moved: HUDDAIFAH ALI cover letter.docx -> Job_Search
+2026-01-14 00:48:45,500 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\HUDDAIFAH Ali CV - Copy.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HUDDAIFAH Ali CV - Copy.docx
+2026-01-14 00:48:45,500 - INFO - Moved: HUDDAIFAH Ali CV - Copy.docx -> Job_Search
+2026-01-14 00:48:45,505 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\HUDDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HUDDAIFAH Ali CV.docx
+2026-01-14 00:48:45,507 - INFO - Moved: HUDDAIFAH Ali CV.docx -> Job_Search
+2026-01-14 00:48:45,511 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\Huddaifah CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\Huddaifah CV.docx
+2026-01-14 00:48:45,512 - INFO - Moved: Huddaifah CV.docx -> Job_Search
+2026-01-14 00:48:45,516 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\plan.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\plan.docx
+2026-01-14 00:48:45,517 - INFO - Moved: plan.docx -> Job_Search
+2026-01-14 00:48:45,520 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH ALI cover letter.docx
+2026-01-14 00:48:45,521 - INFO - Moved: ~$DDAIFAH ALI cover letter.docx -> Job_Search
+2026-01-14 00:48:45,524 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\~$DDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH Ali CV.docx
+2026-01-14 00:48:45,528 - INFO - Moved: ~$DDAIFAH Ali CV.docx -> Job_Search
+2026-01-14 00:48:45,532 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Data\~WRL0005.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\~WRL0005.tmp
+2026-01-14 00:48:45,532 - INFO - Moved: ~WRL0005.tmp -> Images
+2026-01-14 00:48:45,536 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\Backdrop include image related to me.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Backdrop include image related to me.docx
+2026-01-14 00:48:45,538 - INFO - Moved: Backdrop include image related to me.docx -> Documents
+2026-01-14 00:48:45,544 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\job titles.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\job titles.docx
+2026-01-14 00:48:45,544 - INFO - Moved: job titles.docx -> Documents
+2026-01-14 00:48:45,547 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\jobs list.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\jobs list.docx
+2026-01-14 00:48:45,547 - INFO - Moved: jobs list.docx -> Documents
+2026-01-14 00:48:45,551 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\MODULES.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\MODULES.docx
+2026-01-14 00:48:45,551 - INFO - Moved: MODULES.docx -> Documents
+2026-01-14 00:48:45,556 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\p.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.docx
+2026-01-14 00:48:45,557 - INFO - Moved: p.docx -> Documents
+2026-01-14 00:48:45,560 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\p.pdf -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.pdf
+2026-01-14 00:48:45,561 - INFO - Moved: p.pdf -> Documents
+2026-01-14 00:48:45,565 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files\Ranking system.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_Ranking_system\Ranking system.docx
+2026-01-14 00:48:45,566 - INFO - Moved: Ranking system.docx -> Project_Ranking_system
+2026-01-14 00:48:45,569 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Images\~WRL0006.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\~WRL0006.tmp
+2026-01-14 00:48:45,570 - INFO - Moved: ~WRL0006.tmp -> Data
+2026-01-14 00:48:45,572 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Archives
+2026-01-14 00:48:45,574 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Data
+2026-01-14 00:48:45,576 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents_15files
+2026-01-14 00:48:45,578 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Images
+2026-01-14 00:48:45,579 - INFO - Pipeline complete: 18 processed, 18 moved, 0 failed
+2026-01-14 00:48:45,579 - INFO - Folder structure created:
+2026-01-14 00:48:45,580 - INFO -   Job_Search/ (9 files)
+2026-01-14 00:48:45,581 - INFO -   Images/ (1 files)
+2026-01-14 00:48:45,582 - INFO -   Documents/ (6 files)
+2026-01-14 00:48:45,583 - INFO -   Project_Ranking_system/ (1 files)
+2026-01-14 00:48:45,583 - INFO -   Data/ (1 files)
+2026-01-20 21:16:13,966 - INFO - Starting Smart File Organizer
+2026-01-20 21:16:13,967 - INFO - Checking NLTK resources
+2026-01-20 21:16:13,972 - INFO - NLTK resource available: punkt
+2026-01-20 21:16:13,976 - INFO - NLTK resource available: stopwords
+2026-01-20 21:16:13,980 - INFO - NLTK resource available: averaged_perceptron_tagger
+2026-01-20 21:16:13,982 - INFO - Tesseract found at: C:\\Program Files\\Tesseract-OCR\\tesseract.exe
+2026-01-20 21:17:18,261 - WARNING - Destination is inside source directory
+2026-01-20 21:17:18,273 - INFO - Found 18 files to process
+2026-01-20 21:17:18,503 - INFO - Initializing zero-shot classifier (device=-1)
+2026-01-20 21:18:03,767 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH ALI cover letter.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH ALI cover letter.docx'
+2026-01-20 21:18:03,775 - WARNING - Error extracting text from DOCX C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH Ali CV.docx: Package not found at 'C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH Ali CV.docx'
+2026-01-20 21:18:03,811 - INFO - Generating dynamic folder structure based on relationships...
+2026-01-20 21:18:03,819 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\~WRL0006.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Images\~WRL0006.tmp
+2026-01-20 21:18:03,819 - INFO - Moved: ~WRL0006.tmp -> Images
+2026-01-20 21:18:03,823 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\Backdrop include image related to me.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents\Backdrop include image related to me.docx
+2026-01-20 21:18:03,824 - INFO - Moved: Backdrop include image related to me.docx -> Documents
+2026-01-20 21:18:03,827 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\job titles.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents\job titles.docx
+2026-01-20 21:18:03,828 - INFO - Moved: job titles.docx -> Documents
+2026-01-20 21:18:03,832 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\jobs list.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents\jobs list.docx
+2026-01-20 21:18:03,833 - INFO - Moved: jobs list.docx -> Documents
+2026-01-20 21:18:03,836 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\MODULES.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents\MODULES.docx
+2026-01-20 21:18:03,837 - INFO - Moved: MODULES.docx -> Documents
+2026-01-20 21:18:03,840 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents\p.docx
+2026-01-20 21:18:03,841 - INFO - Moved: p.docx -> Documents
+2026-01-20 21:18:03,844 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\p.pdf -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Documents\p.pdf
+2026-01-20 21:18:03,845 - INFO - Moved: p.pdf -> Documents
+2026-01-20 21:18:03,848 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\~WRL0005.tmp -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Data\~WRL0005.tmp
+2026-01-20 21:18:03,849 - INFO - Moved: ~WRL0005.tmp -> Data
+2026-01-20 21:18:03,853 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\cover letter.docx
+2026-01-20 21:18:03,854 - INFO - Moved: cover letter.docx -> Job_Search
+2026-01-20 21:18:03,858 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\cv.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\cv.zip
+2026-01-20 21:18:03,858 - INFO - Moved: cv.zip -> Job_Search
+2026-01-20 21:18:03,861 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HUDDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\HUDDAIFAH ALI cover letter.docx
+2026-01-20 21:18:03,862 - INFO - Moved: HUDDAIFAH ALI cover letter.docx -> Job_Search
+2026-01-20 21:18:03,865 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HUDDAIFAH Ali CV - Copy.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\HUDDAIFAH Ali CV - Copy.docx
+2026-01-20 21:18:03,866 - INFO - Moved: HUDDAIFAH Ali CV - Copy.docx -> Job_Search
+2026-01-20 21:18:03,870 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HUDDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\HUDDAIFAH Ali CV.docx
+2026-01-20 21:18:03,870 - INFO - Moved: HUDDAIFAH Ali CV.docx -> Job_Search
+2026-01-20 21:18:03,874 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\Huddaifah CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\Huddaifah CV.docx
+2026-01-20 21:18:03,875 - INFO - Moved: Huddaifah CV.docx -> Job_Search
+2026-01-20 21:18:03,878 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\plan.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\plan.docx
+2026-01-20 21:18:03,879 - INFO - Moved: plan.docx -> Job_Search
+2026-01-20 21:18:03,882 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH ALI cover letter.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\~$DDAIFAH ALI cover letter.docx
+2026-01-20 21:18:03,882 - INFO - Moved: ~$DDAIFAH ALI cover letter.docx -> Job_Search
+2026-01-20 21:18:03,886 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\~$DDAIFAH Ali CV.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Job_Search\~$DDAIFAH Ali CV.docx
+2026-01-20 21:18:03,886 - INFO - Moved: ~$DDAIFAH Ali CV.docx -> Job_Search
+2026-01-20 21:18:03,889 - INFO - Moved: C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_Ranking_system\Ranking system.docx -> C:/Users/hudzg/Desktop/cv - Copy/New folder - Copy\Project_Ranking_system\Ranking system.docx
+2026-01-20 21:18:03,890 - INFO - Moved: Ranking system.docx -> Project_Ranking_system
+2026-01-20 21:18:03,892 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Data
+2026-01-20 21:18:03,893 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents
+2026-01-20 21:18:03,894 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Images
+2026-01-20 21:18:03,896 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search
+2026-01-20 21:18:03,897 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_Ranking_system
+2026-01-20 21:18:03,898 - INFO - Pipeline complete: 18 processed, 18 moved, 0 failed
+2026-01-20 21:18:03,899 - INFO - Folder structure created:
+2026-01-20 21:18:03,899 - INFO -   Images/ (1 files)
+2026-01-20 21:18:03,900 - INFO -   Documents/ (6 files)
+2026-01-20 21:18:03,900 - INFO -   Data/ (1 files)
+2026-01-20 21:18:03,901 - INFO -   Job_Search/ (9 files)
+2026-01-20 21:18:03,902 - INFO -   Project_Ranking_system/ (1 files)
+2026-01-20 21:52:58,850 - INFO - Found 146 files to process
+2026-01-20 22:12:23,752 - INFO - Generating dynamic folder structure based on relationships...
+2026-01-20 22:12:23,787 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Archives\evergreenEstate.zip
+2026-01-20 22:12:23,788 - INFO - Moved: evergreenEstate.zip -> Archives
+2026-01-20 22:12:23,791 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Archives\OBC.zip
+2026-01-20 22:12:23,792 - INFO - Moved: OBC.zip -> Archives
+2026-01-20 22:12:23,797 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS.zip -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Archives\URS.zip
+2026-01-20 22:12:23,798 - INFO - Moved: URS.zip -> Archives
+2026-01-20 22:12:23,802 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images\download (1).jpg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\download (1).jpg
+2026-01-20 22:12:23,803 - INFO - Moved: download (1).jpg -> Images
+2026-01-20 22:12:23,807 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images\download (3).jpeg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\download (3).jpeg
+2026-01-20 22:12:23,808 - INFO - Moved: download (3).jpeg -> Images
+2026-01-20 22:12:23,813 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images\images (1).jpeg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\images (1).jpeg
+2026-01-20 22:12:23,813 - INFO - Moved: images (1).jpeg -> Images
+2026-01-20 22:12:23,817 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images\pexels-photo-186077.jpeg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\pexels-photo-186077.jpeg
+2026-01-20 22:12:23,818 - INFO - Moved: pexels-photo-186077.jpeg -> Images
+2026-01-20 22:12:23,822 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images\placeholder.jpg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\placeholder.jpg
+2026-01-20 22:12:23,823 - INFO - Moved: placeholder.jpg -> Images
+2026-01-20 22:12:23,828 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images\yo.jpeg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\yo.jpeg
+2026-01-20 22:12:23,828 - INFO - Moved: yo.jpeg -> Images
+2026-01-20 22:12:23,832 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\images\temp.jpg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\temp.jpg
+2026-01-20 22:12:23,833 - INFO - Moved: temp.jpg -> Images
+2026-01-20 22:12:23,837 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\unnamed.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\unnamed.png
+2026-01-20 22:12:23,838 - INFO - Moved: unnamed.png -> Images
+2026-01-20 22:12:23,841 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Images\download (3)_1.jpeg
+2026-01-20 22:12:23,843 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\uploads\download (3).jpeg -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Images\download (3)_1.jpeg
+2026-01-20 22:12:23,844 - INFO - Moved: download (3).jpeg -> Images
+2026-01-20 22:12:23,847 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\uploads\download.jpg -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\download.jpg
+2026-01-20 22:12:23,848 - INFO - Moved: download.jpg -> Images
+2026-01-20 22:12:23,852 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Images\images (1)_1.jpeg
+2026-01-20 22:12:23,853 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\uploads\images (1).jpeg -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Images\images (1)_1.jpeg
+2026-01-20 22:12:23,854 - INFO - Moved: images (1).jpeg -> Images
+2026-01-20 22:12:23,857 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Images\yo_1.jpeg
+2026-01-20 22:12:23,858 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\uploads\yo.jpeg -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Images\yo_1.jpeg
+2026-01-20 22:12:23,859 - INFO - Moved: yo.jpeg -> Images
+2026-01-20 22:12:23,863 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\test_ocr.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\test_ocr.png
+2026-01-20 22:12:23,863 - INFO - Moved: test_ocr.png -> Images
+2026-01-20 22:12:23,868 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_212044.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_212044.png
+2026-01-20 22:12:23,869 - INFO - Moved: evaluation_visualization_20250516_212044.png -> Images
+2026-01-20 22:12:23,872 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_212123.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_212123.png
+2026-01-20 22:12:23,873 - INFO - Moved: evaluation_visualization_20250516_212123.png -> Images
+2026-01-20 22:12:23,876 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_213814.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_213814.png
+2026-01-20 22:12:23,877 - INFO - Moved: evaluation_visualization_20250516_213814.png -> Images
+2026-01-20 22:12:23,880 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_224928.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_224928.png
+2026-01-20 22:12:23,881 - INFO - Moved: evaluation_visualization_20250516_224928.png -> Images
+2026-01-20 22:12:23,885 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_225355.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_225355.png
+2026-01-20 22:12:23,885 - INFO - Moved: evaluation_visualization_20250516_225355.png -> Images
+2026-01-20 22:12:23,889 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_225637.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_225637.png
+2026-01-20 22:12:23,890 - INFO - Moved: evaluation_visualization_20250516_225637.png -> Images
+2026-01-20 22:12:23,894 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_230015.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_230015.png
+2026-01-20 22:12:23,895 - INFO - Moved: evaluation_visualization_20250516_230015.png -> Images
+2026-01-20 22:12:23,898 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250516_231850.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250516_231850.png
+2026-01-20 22:12:23,899 - INFO - Moved: evaluation_visualization_20250516_231850.png -> Images
+2026-01-20 22:12:23,900 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250517_020204.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250517_020204.png
+2026-01-20 22:12:23,900 - INFO - Moved: evaluation_visualization_20250517_020204.png -> Images
+2026-01-20 22:12:23,900 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250517_020941.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250517_020941.png
+2026-01-20 22:12:23,900 - INFO - Moved: evaluation_visualization_20250517_020941.png -> Images
+2026-01-20 22:12:23,900 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250517_033842.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250517_033842.png
+2026-01-20 22:12:23,900 - INFO - Moved: evaluation_visualization_20250517_033842.png -> Images
+2026-01-20 22:12:23,916 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250517_034816.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250517_034816.png
+2026-01-20 22:12:23,916 - INFO - Moved: evaluation_visualization_20250517_034816.png -> Images
+2026-01-20 22:12:23,920 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250517_035301.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250517_035301.png
+2026-01-20 22:12:23,921 - INFO - Moved: evaluation_visualization_20250517_035301.png -> Images
+2026-01-20 22:12:23,924 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_visualization_20250517_035805.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\evaluation_visualization_20250517_035805.png
+2026-01-20 22:12:23,925 - INFO - Moved: evaluation_visualization_20250517_035805.png -> Images
+2026-01-20 22:12:23,928 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\confusion_matrix_dt_10buckets.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\confusion_matrix_dt_10buckets.png
+2026-01-20 22:12:23,928 - INFO - Moved: confusion_matrix_dt_10buckets.png -> Images
+2026-01-20 22:12:23,932 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\confusion_matrix_rf_10buckets.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\confusion_matrix_rf_10buckets.png
+2026-01-20 22:12:23,933 - INFO - Moved: confusion_matrix_rf_10buckets.png -> Images
+2026-01-20 22:12:23,936 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\DT_vs_RF_metrics_10buckets.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\DT_vs_RF_metrics_10buckets.png
+2026-01-20 22:12:23,937 - INFO - Moved: DT_vs_RF_metrics_10buckets.png -> Images
+2026-01-20 22:12:23,940 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\confusion_matrices\decision_tree_cm.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\decision_tree_cm.png
+2026-01-20 22:12:23,941 - INFO - Moved: decision_tree_cm.png -> Images
+2026-01-20 22:12:23,944 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\confusion_matrices\random_forest_cm.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\random_forest_cm.png
+2026-01-20 22:12:23,945 - INFO - Moved: random_forest_cm.png -> Images
+2026-01-20 22:12:23,948 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\metrics_plots\rf_feature_importance.png -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Images\rf_feature_importance.png
+2026-01-20 22:12:23,949 - INFO - Moved: rf_feature_importance.png -> Images
+2026-01-20 22:12:23,952 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\agent.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\agent.php
+2026-01-20 22:12:23,953 - INFO - Moved: agent.php -> Data
+2026-01-20 22:12:23,956 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\agentcreate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\agentcreate.php
+2026-01-20 22:12:23,957 - INFO - Moved: agentcreate.php -> Data
+2026-01-20 22:12:23,960 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\agentread.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\agentread.php
+2026-01-20 22:12:23,961 - INFO - Moved: agentread.php -> Data
+2026-01-20 22:12:23,965 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\appointment.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\appointment.php
+2026-01-20 22:12:23,965 - INFO - Moved: appointment.php -> Data
+2026-01-20 22:12:23,969 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\appointmentcreate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\appointmentcreate.php
+2026-01-20 22:12:23,969 - INFO - Moved: appointmentcreate.php -> Data
+2026-01-20 22:12:23,973 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\appointmentread.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\appointmentread.php
+2026-01-20 22:12:23,974 - INFO - Moved: appointmentread.php -> Data
+2026-01-20 22:12:23,978 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\client.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\client.php
+2026-01-20 22:12:23,979 - INFO - Moved: client.php -> Data
+2026-01-20 22:12:23,982 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\clientcreate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\clientcreate.php
+2026-01-20 22:12:23,983 - INFO - Moved: clientcreate.php -> Data
+2026-01-20 22:12:23,987 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\clientdelete.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\clientdelete.php
+2026-01-20 22:12:23,988 - INFO - Moved: clientdelete.php -> Data
+2026-01-20 22:12:23,991 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\clientread.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\clientread.php
+2026-01-20 22:12:23,992 - INFO - Moved: clientread.php -> Data
+2026-01-20 22:12:23,997 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\clientupdate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\clientupdate.php
+2026-01-20 22:12:23,997 - INFO - Moved: clientupdate.php -> Data
+2026-01-20 22:12:24,001 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\property.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\property.php
+2026-01-20 22:12:24,001 - INFO - Moved: property.php -> Data
+2026-01-20 22:12:24,005 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\propertyread.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Data\propertyread.php
+2026-01-20 22:12:24,006 - INFO - Moved: propertyread.php -> Data
+2026-01-20 22:12:24,010 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\agentdelete.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\agentdelete.php
+2026-01-20 22:12:24,010 - INFO - Moved: agentdelete.php -> Code
+2026-01-20 22:12:24,014 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\agentupdate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\agentupdate.php
+2026-01-20 22:12:24,015 - INFO - Moved: agentupdate.php -> Code
+2026-01-20 22:12:24,018 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\appointmentdelete.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\appointmentdelete.php
+2026-01-20 22:12:24,019 - INFO - Moved: appointmentdelete.php -> Code
+2026-01-20 22:12:24,022 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\appointmentupdate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\appointmentupdate.php
+2026-01-20 22:12:24,023 - INFO - Moved: appointmentupdate.php -> Code
+2026-01-20 22:12:24,027 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\lad.css -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\lad.css
+2026-01-20 22:12:24,028 - INFO - Moved: lad.css -> Code
+2026-01-20 22:12:24,031 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\propertycreate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\propertycreate.php
+2026-01-20 22:12:24,032 - INFO - Moved: propertycreate.php -> Code
+2026-01-20 22:12:24,035 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\propertydelete.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\propertydelete.php
+2026-01-20 22:12:24,036 - INFO - Moved: propertydelete.php -> Code
+2026-01-20 22:12:24,040 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\propertyupdate.php -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\propertyupdate.php
+2026-01-20 22:12:24,041 - INFO - Moved: propertyupdate.php -> Code
+2026-01-20 22:12:24,044 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\73fc0a5f171c2f83.css -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\73fc0a5f171c2f83.css
+2026-01-20 22:12:24,045 - INFO - Moved: 73fc0a5f171c2f83.css -> Code
+2026-01-20 22:12:24,048 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\dgkjq2bp -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\dgkjq2bp
+2026-01-20 22:12:24,049 - INFO - Moved: dgkjq2bp -> Code
+2026-01-20 22:12:24,052 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\polyfills-c67a75d1b6f99dc8.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\polyfills-c67a75d1b6f99dc8.js.download
+2026-01-20 22:12:24,053 - INFO - Moved: polyfills-c67a75d1b6f99dc8.js.download -> Code
+2026-01-20 22:12:24,057 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\saved_resource(1).html -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\saved_resource(1).html
+2026-01-20 22:12:24,058 - INFO - Moved: saved_resource(1).html -> Code
+2026-01-20 22:12:24,062 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\saved_resource.html -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\saved_resource.html
+2026-01-20 22:12:24,062 - INFO - Moved: saved_resource.html -> Code
+2026-01-20 22:12:24,066 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\webpack-e9f77ccad7f872cc.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\webpack-e9f77ccad7f872cc.js.download
+2026-01-20 22:12:24,067 - INFO - Moved: webpack-e9f77ccad7f872cc.js.download -> Code
+2026-01-20 22:12:24,072 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\[[...default]]-f655a2695b0d28dd.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\[[...default]]-f655a2695b0d28dd.js.download
+2026-01-20 22:12:24,073 - INFO - Moved: [[...default]]-f655a2695b0d28dd.js.download -> Code
+2026-01-20 22:12:24,076 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\_app-c7bb6e9c1471fff7.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\_app-c7bb6e9c1471fff7.js.download
+2026-01-20 22:12:24,077 - INFO - Moved: _app-c7bb6e9c1471fff7.js.download -> Code
+2026-01-20 22:12:24,080 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\_buildManifest.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\_buildManifest.js.download
+2026-01-20 22:12:24,081 - INFO - Moved: _buildManifest.js.download -> Code
+2026-01-20 22:12:24,084 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\_ssgManifest.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\_ssgManifest.js.download
+2026-01-20 22:12:24,085 - INFO - Moved: _ssgManifest.js.download -> Code
+2026-01-20 22:12:24,088 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\gui_config.json -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\gui_config.json
+2026-01-20 22:12:24,089 - INFO - Moved: gui_config.json -> Code
+2026-01-20 22:12:24,093 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\main.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\main.py
+2026-01-20 22:12:24,094 - INFO - Moved: main.py -> Code
+2026-01-20 22:12:24,097 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\test_ocr.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\test_ocr.py
+2026-01-20 22:12:24,098 - INFO - Moved: test_ocr.py -> Code
+2026-01-20 22:12:24,101 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\test_tesseract.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\test_tesseract.py
+2026-01-20 22:12:24,102 - INFO - Moved: test_tesseract.py -> Code
+2026-01-20 22:12:24,106 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\classifier.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\classifier.py
+2026-01-20 22:12:24,107 - INFO - Moved: classifier.py -> Code
+2026-01-20 22:12:24,110 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\fallback.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\fallback.py
+2026-01-20 22:12:24,111 - INFO - Moved: fallback.py -> Code
+2026-01-20 22:12:24,114 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\filetypes.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\filetypes.py
+2026-01-20 22:12:24,115 - INFO - Moved: filetypes.py -> Code
+2026-01-20 22:12:24,118 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\__pycache__\classifier.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\classifier.cpython-311.pyc
+2026-01-20 22:12:24,119 - INFO - Moved: classifier.cpython-311.pyc -> Code
+2026-01-20 22:12:24,123 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\__pycache__\fallback.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\fallback.cpython-311.pyc
+2026-01-20 22:12:24,124 - INFO - Moved: fallback.cpython-311.pyc -> Code
+2026-01-20 22:12:24,128 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\config\config.json -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\config.json
+2026-01-20 22:12:24,129 - INFO - Moved: config.json -> Code
+2026-01-20 22:12:24,131 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Code\gui_config_1.json
+2026-01-20 22:12:24,133 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\config\gui_config.json -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Code\gui_config_1.json
+2026-01-20 22:12:24,134 - INFO - Moved: gui_config.json -> Code
+2026-01-20 22:12:24,138 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\config\tesseract_config.json -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\tesseract_config.json
+2026-01-20 22:12:24,138 - INFO - Moved: tesseract_config.json -> Code
+2026-01-20 22:12:24,142 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\dynamic_labels.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\dynamic_labels.py
+2026-01-20 22:12:24,142 - INFO - Moved: dynamic_labels.py -> Code
+2026-01-20 22:12:24,145 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\organizer.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\organizer.py
+2026-01-20 22:12:24,146 - INFO - Moved: organizer.py -> Code
+2026-01-20 22:12:24,149 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\pipeline.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\pipeline.py
+2026-01-20 22:12:24,150 - INFO - Moved: pipeline.py -> Code
+2026-01-20 22:12:24,154 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\scanner.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\scanner.py
+2026-01-20 22:12:24,154 - INFO - Moved: scanner.py -> Code
+2026-01-20 22:12:24,158 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\__pycache__\organizer.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\organizer.cpython-311.pyc
+2026-01-20 22:12:24,158 - INFO - Moved: organizer.cpython-311.pyc -> Code
+2026-01-20 22:12:24,162 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\__pycache__\pipeline.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\pipeline.cpython-311.pyc
+2026-01-20 22:12:24,162 - INFO - Moved: pipeline.cpython-311.pyc -> Code
+2026-01-20 22:12:24,166 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\logs\file_organizer.log -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\file_organizer.log
+2026-01-20 22:12:24,166 - INFO - Moved: file_organizer.log -> Code
+2026-01-20 22:12:24,169 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\clustering.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\clustering.py
+2026-01-20 22:12:24,170 - INFO - Moved: clustering.py -> Code
+2026-01-20 22:12:24,174 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\labels.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\labels.py
+2026-01-20 22:12:24,175 - INFO - Moved: labels.py -> Code
+2026-01-20 22:12:24,178 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\relationships.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\relationships.py
+2026-01-20 22:12:24,178 - INFO - Moved: relationships.py -> Code
+2026-01-20 22:12:24,180 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\__pycache__\labels.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\labels.cpython-311.pyc
+2026-01-20 22:12:24,180 - INFO - Moved: labels.cpython-311.pyc -> Code
+2026-01-20 22:12:24,186 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\extraction.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\extraction.py
+2026-01-20 22:12:24,187 - INFO - Moved: extraction.py -> Code
+2026-01-20 22:12:24,190 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\filesystem.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\filesystem.py
+2026-01-20 22:12:24,191 - INFO - Moved: filesystem.py -> Code
+2026-01-20 22:12:24,194 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\text.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\text.py
+2026-01-20 22:12:24,195 - INFO - Moved: text.py -> Code
+2026-01-20 22:12:24,198 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\__pycache__\text.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\text.cpython-311.pyc
+2026-01-20 22:12:24,199 - INFO - Moved: text.cpython-311.pyc -> Code
+2026-01-20 22:12:24,202 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\src\URS - Copy - Copy.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\URS - Copy - Copy.py
+2026-01-20 22:12:24,203 - INFO - Moved: URS - Copy - Copy.py -> Code
+2026-01-20 22:12:24,206 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\src\URS - Copy.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\URS - Copy.py
+2026-01-20 22:12:24,206 - INFO - Moved: URS - Copy.py -> Code
+2026-01-20 22:12:24,210 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\src\URS_pipeline.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Code\URS_pipeline.py
+2026-01-20 22:12:24,210 - INFO - Moved: URS_pipeline.py -> Code
+2026-01-20 22:12:24,214 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\api(1).js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\api(1).js.download
+2026-01-20 22:12:24,214 - INFO - Moved: api(1).js.download -> Job_Search
+2026-01-20 22:12:24,218 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\api.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\api.js.download
+2026-01-20 22:12:24,218 - INFO - Moved: api.js.download -> Job_Search
+2026-01-20 22:12:24,223 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\DYNAMIC_ORGANIZATION.md -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\DYNAMIC_ORGANIZATION.md
+2026-01-20 22:12:24,224 - INFO - Moved: DYNAMIC_ORGANIZATION.md -> Job_Search
+2026-01-20 22:12:24,227 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\errors.log -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\errors.log
+2026-01-20 22:12:24,227 - INFO - Moved: errors.log -> Job_Search
+2026-01-20 22:12:24,230 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\file_organizer.log -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\file_organizer.log
+2026-01-20 22:12:24,231 - INFO - Moved: file_organizer.log -> Job_Search
+2026-01-20 22:12:24,234 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\file_organizer_gui.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\file_organizer_gui.py
+2026-01-20 22:12:24,235 - INFO - Moved: file_organizer_gui.py -> Job_Search
+2026-01-20 22:12:24,238 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\HIERARCHICAL_ORGANIZATION.md -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\HIERARCHICAL_ORGANIZATION.md
+2026-01-20 22:12:24,239 - INFO - Moved: HIERARCHICAL_ORGANIZATION.md -> Job_Search
+2026-01-20 22:12:24,242 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\context.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\context.py
+2026-01-20 22:12:24,243 - INFO - Moved: context.py -> Job_Search
+2026-01-20 22:12:24,246 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\organization.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\organization.py
+2026-01-20 22:12:24,246 - INFO - Moved: organization.py -> Job_Search
+2026-01-20 22:12:24,249 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\__pycache__\context.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\context.cpython-311.pyc
+2026-01-20 22:12:24,250 - INFO - Moved: context.cpython-311.pyc -> Job_Search
+2026-01-20 22:12:24,253 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\__pycache__\organization.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\organization.cpython-311.pyc
+2026-01-20 22:12:24,254 - INFO - Moved: organization.cpython-311.pyc -> Job_Search
+2026-01-20 22:12:24,257 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\__pycache__\file_organizer_gui.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Job_Search\file_organizer_gui.cpython-311.pyc
+2026-01-20 22:12:24,258 - INFO - Moved: file_organizer_gui.cpython-311.pyc -> Job_Search
+2026-01-20 22:12:24,261 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\framework-10a404587b40544b.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_framework-10a404587b40544b\framework-10a404587b40544b.js.download
+2026-01-20 22:12:24,262 - INFO - Moved: framework-10a404587b40544b.js.download -> Project_framework-10a404587b40544b
+2026-01-20 22:12:24,265 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files\main-5b2c736082034b80.js.download -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_main-5b2c736082034b80\main-5b2c736082034b80.js.download
+2026-01-20 22:12:24,266 - INFO - Moved: main-5b2c736082034b80.js.download -> Project_main-5b2c736082034b80
+2026-01-20 22:12:24,268 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\README.MD.txt -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_README\README.MD.txt
+2026-01-20 22:12:24,269 - INFO - Moved: README.MD.txt -> Project_README
+2026-01-20 22:12:24,273 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\requirements.txt -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\requirements.txt
+2026-01-20 22:12:24,273 - INFO - Moved: requirements.txt -> Documents
+2026-01-20 22:12:24,276 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\classification_report_dt_10buckets.txt -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\classification_report_dt_10buckets.txt
+2026-01-20 22:12:24,277 - INFO - Moved: classification_report_dt_10buckets.txt -> Documents
+2026-01-20 22:12:24,280 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\classification_report_rf_10buckets.txt -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Documents\classification_report_rf_10buckets.txt
+2026-01-20 22:12:24,281 - INFO - Moved: classification_report_rf_10buckets.txt -> Documents
+2026-01-20 22:12:24,284 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_utils\utils.py
+2026-01-20 22:12:24,285 - INFO - Moved: utils.py -> Project_utils
+2026-01-20 22:12:24,288 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Project_utils\utils_1.py
+2026-01-20 22:12:24,290 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\utils.py -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Project_utils\utils_1.py
+2026-01-20 22:12:24,290 - INFO - Moved: utils.py -> Project_utils
+2026-01-20 22:12:24,294 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\__pycache__\utils.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_utils\utils.cpython-311.pyc
+2026-01-20 22:12:24,295 - INFO - Moved: utils.cpython-311.pyc -> Project_utils
+2026-01-20 22:12:24,298 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\__pycache__\__init__.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Others\__init__.cpython-311.pyc
+2026-01-20 22:12:24,299 - INFO - Moved: __init__.cpython-311.pyc -> Others
+2026-01-20 22:12:24,301 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_1.pyc
+2026-01-20 22:12:24,303 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\config\__pycache__\__init__.cpython-311.pyc -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_1.pyc
+2026-01-20 22:12:24,304 - INFO - Moved: __init__.cpython-311.pyc -> Others
+2026-01-20 22:12:24,308 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\__pycache__\scanner.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Others\scanner.cpython-311.pyc
+2026-01-20 22:12:24,309 - INFO - Moved: scanner.cpython-311.pyc -> Others
+2026-01-20 22:12:24,311 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_2.pyc
+2026-01-20 22:12:24,313 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\__pycache__\__init__.cpython-311.pyc -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_2.pyc
+2026-01-20 22:12:24,314 - INFO - Moved: __init__.cpython-311.pyc -> Others
+2026-01-20 22:12:24,316 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_3.pyc
+2026-01-20 22:12:24,318 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\__pycache__\__init__.cpython-311.pyc -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_3.pyc
+2026-01-20 22:12:24,319 - INFO - Moved: __init__.cpython-311.pyc -> Others
+2026-01-20 22:12:24,323 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\__pycache__\filesystem.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Others\filesystem.cpython-311.pyc
+2026-01-20 22:12:24,324 - INFO - Moved: filesystem.cpython-311.pyc -> Others
+2026-01-20 22:12:24,326 - INFO - File exists, using unique name: C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_4.pyc
+2026-01-20 22:12:24,329 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\__pycache__\__init__.cpython-311.pyc -> C:\Users\hudzg\Desktop\cv - Copy\New folder\Others\__init__.cpython-311_4.pyc
+2026-01-20 22:12:24,329 - INFO - Moved: __init__.cpython-311.pyc -> Others
+2026-01-20 22:12:24,332 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation\evaluation.py -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_evaluation\evaluation.py
+2026-01-20 22:12:24,333 - INFO - Moved: evaluation.py -> Project_evaluation
+2026-01-20 22:12:24,337 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_212044.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_212044.csv
+2026-01-20 22:12:24,338 - INFO - Moved: evaluation_report_20250516_212044.csv -> Spreadsheets
+2026-01-20 22:12:24,341 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_212123.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_212123.csv
+2026-01-20 22:12:24,342 - INFO - Moved: evaluation_report_20250516_212123.csv -> Spreadsheets
+2026-01-20 22:12:24,346 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_213814.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_213814.csv
+2026-01-20 22:12:24,346 - INFO - Moved: evaluation_report_20250516_213814.csv -> Spreadsheets
+2026-01-20 22:12:24,350 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_224928.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_224928.csv
+2026-01-20 22:12:24,352 - INFO - Moved: evaluation_report_20250516_224928.csv -> Spreadsheets
+2026-01-20 22:12:24,355 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_225355.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_225355.csv
+2026-01-20 22:12:24,356 - INFO - Moved: evaluation_report_20250516_225355.csv -> Spreadsheets
+2026-01-20 22:12:24,360 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_225637.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_225637.csv
+2026-01-20 22:12:24,361 - INFO - Moved: evaluation_report_20250516_225637.csv -> Spreadsheets
+2026-01-20 22:12:24,365 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_230015.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_230015.csv
+2026-01-20 22:12:24,366 - INFO - Moved: evaluation_report_20250516_230015.csv -> Spreadsheets
+2026-01-20 22:12:24,369 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250516_231850.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250516_231850.csv
+2026-01-20 22:12:24,369 - INFO - Moved: evaluation_report_20250516_231850.csv -> Spreadsheets
+2026-01-20 22:12:24,373 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_020204.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_020204.csv
+2026-01-20 22:12:24,374 - INFO - Moved: evaluation_report_20250517_020204.csv -> Spreadsheets
+2026-01-20 22:12:24,377 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_020941.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_020941.csv
+2026-01-20 22:12:24,377 - INFO - Moved: evaluation_report_20250517_020941.csv -> Spreadsheets
+2026-01-20 22:12:24,381 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_033842.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_033842.csv
+2026-01-20 22:12:24,381 - INFO - Moved: evaluation_report_20250517_033842.csv -> Spreadsheets
+2026-01-20 22:12:24,385 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_034816.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_034816.csv
+2026-01-20 22:12:24,385 - INFO - Moved: evaluation_report_20250517_034816.csv -> Spreadsheets
+2026-01-20 22:12:24,389 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_035301.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_035301.csv
+2026-01-20 22:12:24,389 - INFO - Moved: evaluation_report_20250517_035301.csv -> Spreadsheets
+2026-01-20 22:12:24,393 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_035805.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_035805.csv
+2026-01-20 22:12:24,394 - INFO - Moved: evaluation_report_20250517_035805.csv -> Spreadsheets
+2026-01-20 22:12:24,397 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports\evaluation_report_20250517_040236.csv -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\evaluation_report_20250517_040236.csv
+2026-01-20 22:12:24,398 - INFO - Moved: evaluation_report_20250517_040236.csv -> Spreadsheets
+2026-01-20 22:12:24,401 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\data\shanghai-world-university-ranking (1).xlsx -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Spreadsheets\shanghai-world-university-ranking (1).xlsx
+2026-01-20 22:12:24,402 - INFO - Moved: shanghai-world-university-ranking (1).xlsx -> Spreadsheets
+2026-01-20 22:12:24,405 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\__pycache__\extraction.cpython-311.pyc -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_extraction\extraction.cpython-311.pyc
+2026-01-20 22:12:24,406 - INFO - Moved: extraction.cpython-311.pyc -> Project_extraction
+2026-01-20 22:12:24,410 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\models\decision_tree.pkl -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_decision_tree\decision_tree.pkl
+2026-01-20 22:12:24,410 - INFO - Moved: decision_tree.pkl -> Project_decision_tree
+2026-01-20 22:12:24,414 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\models\random_forest.pkl -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_random_forest\random_forest.pkl
+2026-01-20 22:12:24,415 - INFO - Moved: random_forest.pkl -> Project_random_forest
+2026-01-20 22:12:24,418 - INFO - Moved: C:/Users/hudzg/Desktop/protfolio - Copy\URS\src\# URS – University Ranking Classification.md -> C:/Users/hudzg/Desktop/cv - Copy/New folder\Project_#_URS_–_University_Ranking_Classification\# URS – University Ranking Classification.md
+2026-01-20 22:12:24,419 - INFO - Moved: # URS – University Ranking Classification.md -> Project_#_URS_–_University_Ranking_Classification
+2026-01-20 22:12:24,421 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\images
+2026-01-20 22:12:24,424 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php\images
+2026-01-20 22:12:24,425 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\php
+2026-01-20 22:12:24,425 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\updateproperty_files
+2026-01-20 22:12:24,425 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate\uploads
+2026-01-20 22:12:24,425 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\evergreenEstate
+2026-01-20 22:12:24,425 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\classification\__pycache__
+2026-01-20 22:12:24,432 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\config\__pycache__
+2026-01-20 22:12:24,432 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\core\__pycache__
+2026-01-20 22:12:24,432 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation\plots
+2026-01-20 22:12:24,432 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\evaluation_reports
+2026-01-20 22:12:24,432 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\path\to\destination\folder
+2026-01-20 22:12:24,442 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\path\to\destination
+2026-01-20 22:12:24,443 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\path\to
+2026-01-20 22:12:24,445 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\semantic\__pycache__
+2026-01-20 22:12:24,447 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\utils\__pycache__
+2026-01-20 22:12:24,449 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\OBC\__pycache__
+2026-01-20 22:12:24,450 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\URS\data
+2026-01-20 22:12:24,452 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\URS\models
+2026-01-20 22:12:24,454 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\confusion_matrices
+2026-01-20 22:12:24,455 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs\metrics_plots
+2026-01-20 22:12:24,457 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\URS\outputs
+2026-01-20 22:12:24,458 - INFO - Removed empty directory: C:/Users/hudzg/Desktop/protfolio - Copy\URS\src
+2026-01-20 22:12:24,459 - INFO - Pipeline complete: 146 processed, 146 moved, 0 failed
+2026-01-20 22:12:24,459 - INFO - Folder structure created:
+2026-01-20 22:12:24,460 - INFO -   Archives/ (3 files)
+2026-01-20 22:12:24,461 - INFO -   Images/ (33 files)
+2026-01-20 22:12:24,461 - INFO -   Data/ (13 files)
+2026-01-20 22:12:24,462 - INFO -   Code/ (48 files)
+2026-01-20 22:12:24,463 - INFO -   Job_Search/ (12 files)
+2026-01-20 22:12:24,463 - INFO -   Project_framework-10a404587b40544b/ (1 files)
+2026-01-20 22:12:24,464 - INFO -   Project_main-5b2c736082034b80/ (1 files)
+2026-01-20 22:12:24,464 - INFO -   Project_README/ (1 files)
+2026-01-20 22:12:24,465 - INFO -   Documents/ (3 files)
+2026-01-20 22:12:24,465 - INFO -   Project_utils/ (3 files)
+2026-01-20 22:12:24,466 - INFO -   Others/ (7 files)
+2026-01-20 22:12:24,467 - INFO -   Project_evaluation/ (1 files)
+2026-01-20 22:12:24,467 - INFO -   Spreadsheets/ (16 files)
+2026-01-20 22:12:24,468 - INFO -   Project_extraction/ (1 files)
+2026-01-20 22:12:24,468 - INFO -   Project_decision_tree/ (1 files)
+2026-01-20 22:12:24,470 - INFO -   Project_random_forest/ (1 files)
+2026-01-20 22:12:24,471 - INFO -   Project_#_URS_–_University_Ranking_Classification/ (1 files)

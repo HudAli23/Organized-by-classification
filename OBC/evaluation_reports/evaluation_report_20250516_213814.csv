@@ -1,0 +1,9 @@
+Metric,Value
+classification_accuracy,0.9900990099009901
+organization_success_rate,100.0
+error_rate,49.00990099009901
+processing_time,852.6695036888123
+extraction_success_rate,100.0
+average_processing_time_per_file,8.441605969230727
+category_distribution,"{""Documentation"": 35, ""Research Project"": 3, ""Development Project"": 10, ""Reports"": 10, ""Presentations"": 16, ""Database"": 1, ""Academic Work"": 5, ""Others"": 11, ""Data Analysis"": 1, ""Mobile Development"": 1, ""Personal Projects"": 2, ""AI/ML"": 1, ""Web Development"": 5}"
+error_types,{}

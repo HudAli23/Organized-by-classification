@@ -1,0 +1,11 @@
+Metric,Value
+classification_accuracy,2.479338842975207
+weighted_accuracy,7.788059931675638
+organization_success_rate,41.32231404958678
+error_rate,18.181818181818183
+processing_time,796.6150279045105
+extraction_success_rate,57.48502994011976
+average_processing_time_per_file,0.5842780017852783
+average_confidence_score,0.3081640384197234
+category_distribution,"{""Documentation"": 3, ""Others"": 22}"
+error_types,"{""Classification error: Classification timed out after 30 seconds"": 2, ""Classification error: Classification timed out after 10 seconds"": 69}"

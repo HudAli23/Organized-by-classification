@@ -1,0 +1,686 @@
+[2025-04-18 19:16:07.442723] Text extraction failed: C:/Users/hudzg/Desktop/sort\1.jpg - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:16:07.481142] Text extraction failed: C:/Users/hudzg/Desktop/sort\1.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:40.979534] Text extraction failed: C:/Users/hudzg/Desktop/sort\2.jpg - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:41.010000] Text extraction failed: C:/Users/hudzg/Desktop/sort\2.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:52.880403] Text extraction failed: C:/Users/hudzg/Desktop/sort\24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:52.912728] Text extraction failed: C:/Users/hudzg/Desktop/sort\2leftarrow.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:52.944157] Text extraction failed: C:/Users/hudzg/Desktop/sort\2leftarrow_m.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:54.888148] Text extraction failed: C:/Users/hudzg/Desktop/sort\2rightarrow.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:54.919282] Text extraction failed: C:/Users/hudzg/Desktop/sort\2rightarrow_m.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:54.950629] Text extraction failed: C:/Users/hudzg/Desktop/sort\3.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:56.877536] Text extraction failed: C:/Users/hudzg/Desktop/sort\4.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:52:58.770350] Text extraction failed: C:/Users/hudzg/Desktop/sort\5.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:53:00.674624] Text extraction failed: C:/Users/hudzg/Desktop/sort\6.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:53:02.582429] Text extraction failed: C:/Users/hudzg/Desktop/sort\7.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:53:04.760789] Text extraction failed: C:/Users/hudzg/Desktop/sort\8.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 19:53:30.667910] Text extraction failed: C:/Users/hudzg/Desktop/sort\A G A.csv - 'utf-8' codec can't decode byte 0x92 in position 498: invalid start byte
+[2025-04-18 19:53:30.720003] Text extraction failed: C:/Users/hudzg/Desktop/sort\a.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 20:08:10.930731] Text extraction failed: C:/Users/hudzg/Desktop/sort\addons-video-thumb.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 20:11:01.045498] Text extraction failed: C:/Users/hudzg/Desktop/sort\AKS.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 20:11:01.092654] Text extraction failed: C:/Users/hudzg/Desktop/sort\AKS2.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 20:11:01.134828] Text extraction failed: C:/Users/hudzg/Desktop/sort\alert.black.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+[2025-04-18 20:11:01.178075] Text extraction failed: C:/Users/hudzg/Desktop/sort\alert.red.png - tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-19 01:55:22,868 - Text extraction failed for C:/Users/hudzg/Desktop/New folder (3)\1.jpg: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-19 01:55:22,921 - Text extraction failed for C:/Users/hudzg/Desktop/New folder (3)\1.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-19 03:02:46,767 - Organizing files from C:/Users/hudzg/Desktop/New folder (4) to C:/Users/hudzg/Desktop/New folder (4)...
+2025-04-19 03:02:46,768 - Error during file organization: name 'organize_by_category' is not defined
+2025-04-28 21:57:30,753 - Error during sorting: organize_files() got an unexpected keyword argument 'progress_callback'
+2025-04-28 22:18:52,003 - Error during sorting: organize_files() got an unexpected keyword argument 'progress_callback'
+2025-04-28 22:21:43,884 - Error during sorting: organize_files() got an unexpected keyword argument 'progress_callback'
+2025-04-28 22:37:52,351 - Error during sorting: organize_files() got an unexpected keyword argument 'progress_callback'
+2025-04-28 22:43:22,062 - Error during sorting: organize_files() got an unexpected keyword argument 'cancel_flag'
+2025-04-28 22:54:22,059 - Error during sorting: organize_files() got an unexpected keyword argument 'cancel_flag'
+2025-04-28 23:14:54,745 - Error during sorting: organize_by_content() got an unexpected keyword argument 'cancel_flag'
+2025-04-28 23:39:14,695 - Error during sorting: organize_by_category() got an unexpected keyword argument 'cancel_event'
+2025-04-28 23:41:39,984 - Error during sorting: organize_by_category() got an unexpected keyword argument 'cancel_event'
+2025-04-28 23:44:52,449 - Error during sorting: FileSorterApp.update_progress() missing 1 required positional argument: 'message'
+2025-04-28 23:47:49,538 - Text extraction failed for C:/Users/hudzg/Desktop/reboot - Copy (3)\1.jpg: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-28 23:47:49,738 - Text extraction failed for C:/Users/hudzg/Desktop/reboot - Copy (3)\2.jpg: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-28 23:47:49,779 - Text extraction failed for C:/Users/hudzg/Desktop/reboot - Copy (3)\24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-28 23:48:08,033 - Text extraction failed for C:/Users/hudzg/Desktop/reboot - Copy (3)\A G A.csv: 'utf-8' codec can't decode byte 0x92 in position 498: invalid start byte
+2025-04-28 23:55:48,385 - Text extraction failed for C:/Users/hudzg/Desktop/reboot - Copy (3)\AKS.png: tesseract is not installed or it's not in your PATH. See README file for more information.
+2025-04-29 00:35:33,689 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\shanghai-world-university-ranking.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,689 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\University ranking system.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,689 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\code\URS.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,689 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Archives\code.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,689 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Art\AI\CMP6202Power Point Slides - In-Person Presentation Template 2024-2025.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,691 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\cv\cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,691 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\cv\CV.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,691 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Economy\AI\shanghai-world-university-ranking - Copy.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,691 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Education\final HUDDAIFAH Ali CV (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Finance\Financial-Assistance-Fund-Application-Form-MS-WORD-Version-2.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A1_22153845_Huddaifah_V2 new .docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A1_proposal_22153845_Huddaifah.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A2 Template (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,693 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\AI File Management System doc.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,693 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3 1 1.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,693 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3 1.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,693 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,694 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH 3 1.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,694 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH 3.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,694 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,694 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_1-CDT6200-Literature Review and Methods_1.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,695 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_2-CDT6200-Literature Review_2.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,695 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_3-CDT6200-Literature Review and Methods_3.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,695 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_4-CDT6200-Literature Review and Methods_4.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,695 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\seed fund list and justification.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,696 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$ Template (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,696 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$PITCH.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,696 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$_22153845_Huddaifah_V2 new .docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,696 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Legal\DSA-Computer-Support-Fund-Application-Form-MS-Word-Version-4.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Legal\seed fund.txt: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Others\delay: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Others\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Science\AI\CMP6202 Individual Report Template 2024-2025 - Copy.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Science\AI\CMP6202 Individual Report Template 2024-2025.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\bookmarks_24_01_2025.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\HUDDAIFAH Ali cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,699 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\[Student name - ID] CMP6200 Student Project Declaration.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,699 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\AI\15 - University Datasets.csv: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,699 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UI or UX\HTA diagram.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,699 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UI or UX\User Scenario.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,699 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\1.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,699 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\2.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\HTA diagram.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\HTA diagram.drawio.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\Huddaifah 22153845 CMP6214 User Experience Design (1) (2).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\layout.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\notes.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,702 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\User Scenario.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,702 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user sus and questions.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,702 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\A A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,702 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\A G A.csv: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,702 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\M A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,703 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\T A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,703 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\W A .xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,703 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,703 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\heat.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,704 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\Research.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,704 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\data structure\cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,704 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\data structure\cv.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,704 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home (2).zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,705 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,705 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\website.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,705 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Admin.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,705 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\data: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,706 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Doctor.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,706 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Main.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,706 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\name.dat: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,706 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Patient.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,707 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Admin.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,707 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Doctor.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,707 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Patient.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,707 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\flow\c.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,708 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\flow\f.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,708 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\about1.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,708 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\contact_us.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,708 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\reference1.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\why.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\AKS.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\AKS2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\close.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\close.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,709 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\MAN.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,711 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\MAN2.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,711 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\menu.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,711 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\Thumbs.db: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,711 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,712 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,712 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,712 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,712 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\about val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,712 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\contact val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,713 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\index val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,713 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\main css val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,713 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\refreance val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,713 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\why val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,714 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Admin.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,714 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\data: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,714 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Doctor.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,714 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Main.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,715 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Patient.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,715 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\untitled0.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,715 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Admin.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,716 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Doctor.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,716 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Patient.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,716 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\.DS_Store: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,716 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\banner.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,716 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,717 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,717 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\audiobooks.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,717 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\bargains.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,717 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,718 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\musiccat.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,718 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\singles.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,718 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\topalbums.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,719 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\topsingles.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,719 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\graphics\close.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,719 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\graphics\menu.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,719 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\images\testimage1.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,720 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\images\testimage2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,720 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,720 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,720 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\1st.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,721 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\2nd.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,721 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\3rd.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,721 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\4th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,721 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\5th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,722 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\6th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,722 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\7th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,722 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\8th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,722 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 1.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,722 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,723 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 3.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,723 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 4.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,723 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 5.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,723 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 6.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,724 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 7.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,724 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 8.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,724 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\med.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,724 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\new version.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,725 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\old.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,725 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\perfect.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,725 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 3.1.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,725 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 3.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,726 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 4.1.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,726 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 4.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,726 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\video.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,726 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\2.9.2 Lab - Basic Switch and End Device Configuration.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,726 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\3.5.5 week 4.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,727 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.6.5 week 3.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,727 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.7.1 week 3.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,727 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.7.1 week 3.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,727 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\comp.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,727 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Task 4 Configure Small LAN (1).pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,727 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\week 1.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,729 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\week 2.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,729 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk10-1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity (2).pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,729 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk5-1 Packet Tracer - Configure Initial Router Settings.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,729 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk5-2 Packet Tracer - Connect a Router to a LAN.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,729 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk6-1 Packet Tracer - Subnet an IPv4 Network.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,730 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\bank.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,730 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\calculator.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,730 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\contact.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,730 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\heron.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,731 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\leap year.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,731 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\list of game.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,731 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\occupants report.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,731 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\prime.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,732 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\PSD.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,732 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\quad.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,732 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\robot move.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,732 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\tax.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,732 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\tax.docx.url: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,732 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\DIG4166-2122 Assessment 1 Checklist.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,734 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\sitemap.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,734 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\about.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,734 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\contact us.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,734 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,735 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\reference.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,735 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\why.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,735 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\about.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,735 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,736 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\reference.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,736 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\refreance.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,736 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,736 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,736 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,737 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\about styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,737 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\homes styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,737 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\reference styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,737 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\refreance styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,738 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\AKS.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,738 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\MAN.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,738 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\Thumbs.db: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,738 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\about styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\contact us style.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\homes styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\main styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,739 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\reference styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,741 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\why styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,741 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\bank.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,741 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\calculator.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,741 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\heron.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,742 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\leap year.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,742 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\list of game.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,742 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\occupants report.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,742 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\prime.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,742 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\PSD.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,743 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\quad.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,743 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\robot move.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,743 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\tax.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:35:33,744 - Error during sorting: name 'clean_empty_folders' is not defined
+2025-04-29 00:37:29,628 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\shanghai-world-university-ranking.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\University ranking system.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\code\URS.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Archives\code.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Art\AI\CMP6202Power Point Slides - In-Person Presentation Template 2024-2025.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\cv\cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\cv\CV.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Economy\AI\shanghai-world-university-ranking - Copy.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Education\final HUDDAIFAH Ali CV (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Finance\Financial-Assistance-Fund-Application-Form-MS-WORD-Version-2.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A1_22153845_Huddaifah_V2 new .docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A1_proposal_22153845_Huddaifah.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A2 Template (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\AI File Management System doc.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3 1 1.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3 1.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH 3 1.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH 3.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_1-CDT6200-Literature Review and Methods_1.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,631 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_2-CDT6200-Literature Review_2.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,637 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_3-CDT6200-Literature Review and Methods_3.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,637 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_4-CDT6200-Literature Review and Methods_4.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,637 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\seed fund list and justification.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,637 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$ Template (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,637 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$PITCH.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,638 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$_22153845_Huddaifah_V2 new .docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,638 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Legal\DSA-Computer-Support-Fund-Application-Form-MS-Word-Version-4.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,638 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Legal\seed fund.txt: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,638 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Others\delay: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,639 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Others\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,639 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Science\AI\CMP6202 Individual Report Template 2024-2025 - Copy.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,639 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Science\AI\CMP6202 Individual Report Template 2024-2025.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,639 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\bookmarks_24_01_2025.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,640 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\HUDDAIFAH Ali cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,640 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\[Student name - ID] CMP6200 Student Project Declaration.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,640 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\AI\15 - University Datasets.csv: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,640 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UI or UX\HTA diagram.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,641 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UI or UX\User Scenario.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,641 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\1.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,641 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\2.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,641 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\HTA diagram.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,642 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\HTA diagram.drawio.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,642 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\Huddaifah 22153845 CMP6214 User Experience Design (1) (2).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,642 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\layout.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,642 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\notes.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,643 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\User Scenario.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,643 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user sus and questions.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,643 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\A A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,643 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\A G A.csv: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,644 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\M A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,644 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\T A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,644 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\W A .xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,644 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\heat.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\Research.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\data structure\cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\data structure\cv.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home (2).zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,647 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\website.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,647 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Admin.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,647 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\data: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,647 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Doctor.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,648 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Main.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,648 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\name.dat: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,648 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Patient.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Admin.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Doctor.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Patient.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\flow\c.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\flow\f.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\about1.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\contact_us.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\reference1.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\why.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\AKS.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\AKS2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\close.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\close.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\MAN.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\MAN2.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\menu.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\Thumbs.db: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\about val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\contact val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,655 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\index val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,655 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\main css val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,655 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\refreance val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,655 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\why val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,655 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Admin.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,655 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\data: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Doctor.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Main.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Patient.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\untitled0.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Admin.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Doctor.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Patient.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\.DS_Store: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\banner.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\audiobooks.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\bargains.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\musiccat.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\singles.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\topalbums.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\topsingles.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\graphics\close.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\graphics\menu.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\images\testimage1.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\images\testimage2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\1st.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\2nd.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\3rd.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\4th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\5th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\6th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\7th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\8th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 1.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,666 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 3.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,666 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 4.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,666 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 5.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,666 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 6.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,666 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 7.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,666 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 8.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\med.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\new version.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\old.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\perfect.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 3.1.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 3.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 4.1.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 4.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\video.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\2.9.2 Lab - Basic Switch and End Device Configuration.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\3.5.5 week 4.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.6.5 week 3.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.7.1 week 3.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.7.1 week 3.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\comp.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Task 4 Configure Small LAN (1).pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\week 1.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\week 2.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk10-1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity (2).pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk5-1 Packet Tracer - Configure Initial Router Settings.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk5-2 Packet Tracer - Connect a Router to a LAN.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk6-1 Packet Tracer - Subnet an IPv4 Network.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\bank.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\calculator.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\contact.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\heron.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\leap year.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\list of game.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\occupants report.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\prime.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\PSD.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\quad.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\robot move.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\tax.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\tax.docx.url: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,676 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\DIG4166-2122 Assessment 1 Checklist.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,676 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\sitemap.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,676 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\about.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,676 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\contact us.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,677 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,677 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\reference.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\why.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\about.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\reference.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\refreance.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,679 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,679 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,679 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\about styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,680 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\homes styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,680 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\reference styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,680 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\refreance styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\AKS.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\MAN.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\Thumbs.db: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,682 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,682 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\about styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,682 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\contact us style.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,682 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\homes styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,683 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\main styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,683 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\reference styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,683 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\why styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,683 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\bank.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,684 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\calculator.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,684 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\heron.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,684 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\leap year.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,684 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\list of game.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,685 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\occupants report.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,685 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\prime.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,685 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\PSD.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,685 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\quad.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,685 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\robot move.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\tax.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:29,687 - Error during sorting: name 'clean_empty_folders' is not defined
+2025-04-29 00:37:32,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\shanghai-world-university-ranking.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,645 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\University ranking system.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,646 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\AI\code\URS.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,646 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Archives\code.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,646 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Art\AI\CMP6202Power Point Slides - In-Person Presentation Template 2024-2025.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,646 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\cv\cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,647 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\cv\CV.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,648 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Economy\AI\shanghai-world-university-ranking - Copy.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,648 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Education\final HUDDAIFAH Ali CV (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,648 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Finance\Financial-Assistance-Fund-Application-Form-MS-WORD-Version-2.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A1_22153845_Huddaifah_V2 new .docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A1_proposal_22153845_Huddaifah.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\A2 Template (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\AI File Management System doc.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,649 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3 1 1.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3 1.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\CMP6200-DIG6200 Henderson Innovation Seed Fund Business Canvas template (1) 3.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH 3 1.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH 3.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,650 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\PITCH.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_1-CDT6200-Literature Review and Methods_1.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_2-CDT6200-Literature Review_2.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_3-CDT6200-Literature Review and Methods_3.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,651 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\Sample_4-CDT6200-Literature Review and Methods_4.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\seed fund list and justification.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$ Template (1).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$PITCH.pptx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\FYP\~$_22153845_Huddaifah_V2 new .docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,652 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Legal\DSA-Computer-Support-Fund-Application-Form-MS-Word-Version-4.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Legal\seed fund.txt: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Others\delay: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Others\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,653 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Science\AI\CMP6202 Individual Report Template 2024-2025 - Copy.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Science\AI\CMP6202 Individual Report Template 2024-2025.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\bookmarks_24_01_2025.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\HUDDAIFAH Ali cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,654 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\[Student name - ID] CMP6200 Student Project Declaration.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,656 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Technology\AI\15 - University Datasets.csv: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,656 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UI or UX\HTA diagram.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,656 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UI or UX\User Scenario.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,656 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\1.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,656 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\2.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,656 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\HTA diagram.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\HTA diagram.drawio.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\Huddaifah 22153845 CMP6214 User Experience Design (1) (2).docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\layout.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\notes.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,657 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\User Scenario.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user sus and questions.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\A A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\A G A.csv: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,658 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\M A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\T A.xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\UIUX\user tests\W A .xlsx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\24ccb1dd-7df7-4ba1-ad5c-46401c5c1c4b.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,659 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\heat.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\Research.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\data structure\cover letter.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\data structure\cv.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,660 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home (2).zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\website.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Admin.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,661 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\data: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Doctor.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Main.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\name.dat: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,662 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\Patient.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Admin.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Doctor.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\3 Partial Implementation of a Hospital Management System\__pycache__\Patient.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\flow\c.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,663 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\flow\f.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,664 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\about1.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,664 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\contact_us.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,664 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,664 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\reference1.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\why.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\AKS.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\AKS2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\close.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,665 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\close.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\MAN.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\MAN2.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\menu.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\images\Thumbs.db: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,667 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,668 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\about val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\contact val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\index val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\main css val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\refreance val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,669 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\home\validation\why val.pdf: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,670 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Admin.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,670 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\data: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,670 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Doctor.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,670 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Main.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\Patient.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\untitled0.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Admin.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,671 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Doctor.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\hospital program\__pycache__\Patient.cpython-38.pyc: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\.DS_Store: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\banner.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,672 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\responsive-design\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\audiobooks.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\bargains.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,673 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\musiccat.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\singles.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\topalbums.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,674 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\topsingles.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\graphics\close.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\graphics\menu.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\images\testimage1.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\images\testimage2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\holiday wrok\template4final\styles\main.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,675 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\1st.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,677 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\2nd.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,677 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\3rd.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,677 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\4th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,677 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\5th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\6th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\7th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\8th.mp3: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 1.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 2.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 3.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 4.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 5.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 6.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 7.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\image 8.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\med.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,678 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\new version.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\old.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\perfect.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 3.1.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 3.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 4.1.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\slide 4.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\ino\video present\video.mp4: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\2.9.2 Lab - Basic Switch and End Device Configuration.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\3.5.5 week 4.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.6.5 week 3.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.7.1 week 3.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\4.7.1 week 3.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\comp.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Task 4 Configure Small LAN (1).pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\week 1.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\week 2.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk10-1 Packet Tracer - Use ICMP to Test and Correct Network Connectivity (2).pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk5-1 Packet Tracer - Configure Initial Router Settings.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk5-2 Packet Tracer - Connect a Router to a LAN.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\network\Wk6-1 Packet Tracer - Subnet an IPv4 Network.pka: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\bank.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,681 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\calculator.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\contact.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\heron.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\leap year.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\list of game.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\occupants report.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\prime.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\PSD.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\quad.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\robot move.py: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\tax.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\program\tax.docx.url: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\DIG4166-2122 Assessment 1 Checklist.docx: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\sitemap.drawio: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\about.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\contact us.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\reference.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\why.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,687 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\about.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\index.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\reference.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\refreance.html: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\about styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\homes styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\reference styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\home\styles\refreance styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\AKS.png: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\MAN.jpg: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\images\Thumbs.db: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\My Music\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\My Music\$RECYCLE.BIN\desktop.ini: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\scripts\html5shiv.js: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\about styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\contact us style.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\homes styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,692 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\main styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\reference styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\web\home\styles\why styles.css: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\bank.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\calculator.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,697 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\heron.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\leap year.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\list of game.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\occupants report.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\prime.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,698 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\PSD.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\quad.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\robot move.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,700 - Error organizing file C:/Users/hudzg/Desktop/reboot - Copy (4)\Uni work\zip\tax.zip: name 'extract_text_from_file' is not defined
+2025-04-29 00:37:32,701 - Error during sorting: name 'clean_empty_folders' is not defined

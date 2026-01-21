@@ -1,0 +1,11 @@
+Metric,Value
+Classification Accuracy,0.0
+Weighted Accuracy,0.0
+Organization Success Rate,50.0
+Error Rate,0.0
+Processing Time,9.613951444625854
+Extraction Success Rate,100.0
+Average Processing Time per File,4.806975722312927
+Average Confidence Score,40.0
+Category Distribution,"{""Code"": 1}"
+Error Types,{}

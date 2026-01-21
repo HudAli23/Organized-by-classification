@@ -1,0 +1,35 @@
+{
+    "CATEGORY_FOLDERS": {
+        "Documents": ["txt", "pdf", "docx", "pptx", "odt", "md"],
+        "Images": ["jpg", "jpeg", "png", "gif", "bmp", "tiff", "svg", "webp"],
+        "Videos": ["mp4", "mkv", "avi", "mov", "flv", "wmv"],
+        "Audio": ["mp3", "wav", "flac", "aac", "ogg", "m4a"],
+        "Code": ["py", "java", "cpp", "js", "html", "css", "json", "xml"],
+        "Spreadsheets": ["xls", "xlsx", "csv", "ods"],
+        "Archives": ["zip", "rar", "7z", "tar", "gz", "bz2"]
+    },
+    "LABELS": [
+        "Research Project",
+        "Development Project",
+        "Documentation",
+        "Academic Work",
+        "Business Plans",
+        "Personal Projects",
+        "Cybersecurity",
+        "Data Analysis",
+        "Web Development",
+        "Mobile Development",
+        "Machine Learning",
+        "System Design",
+        "Meeting Notes",
+        "Presentations",
+        "Reports"
+    ],
+    "CONTENT_ANALYSIS": {
+        "min_confidence": 0.15,
+        "chunk_size": 1024,
+        "use_keywords": true,
+        "keyword_weight": 0.6,
+        "content_weight": 0.4
+    }
+}
